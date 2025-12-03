@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pam02&label=Profile%20views&color=0e75b6&style=flat" alt="pam02" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PaM02" alt="PaM02" /></a> </p>
 
-<p align="left"> <a href="https://papamatarfall.netlify.app/">Portfolio</a> </p>
-
 - 🔭 I’m currently working as fullstack developer angular & spring-boot.
   
 - 😄 Pronouns: he/him
